@@ -11,7 +11,7 @@ Automation: Can be scheduled to run at regular intervals.
 # Setup and Installation
 1) Clone the repository:
 
-git clone https://github.com/Arturoo95/Automated-Data-Analysis-Reporting-Tool -
+git clone https://github.com/Arturoo95/Automated-Data-Analysis---Reporting-Tool -
 cd automated-data-analysis-tool -
 
 2) Create and activate a virtual environment:
